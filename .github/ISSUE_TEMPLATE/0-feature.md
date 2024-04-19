@@ -1,6 +1,6 @@
 ---
-name: "✨ New Feature"
-about: Suggest an idea
+name: "✨ Nouvelle fonctionnalité (*new feature*)"
+about: Suggérer une idée (*suggest an idea*)
 title: "✨"
 labels: 'Type: Feature'
 assignees: ''
@@ -65,7 +65,7 @@ Tasks help developers to track small bits of work needed to meet the ACs. This i
 Add any other context here.
 -->
 
-### Catptures d'écran
+### Captures d'écran
 <!-- Si nécessaire, ajoutez les captures d'écran pour aider à mieux comprendre votre problème. -->
 
 <!-- English: Screenshots
