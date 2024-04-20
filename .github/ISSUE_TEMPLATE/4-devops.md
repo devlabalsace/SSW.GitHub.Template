@@ -1,8 +1,9 @@
 ---
-name: "👷 DevOps"
-about: CI/CD and other DevOps concerns e.g. Updating the build, code analysis, test, deploy, application monitoring etc.
-title: "👷"
-labels: 'Type: DevOps'
+name: "\U0001F477 DevOps"
+about: CI/CD and other DevOps concerns e.g. Updating the build, code analysis, test,
+  deploy, application monitoring etc.
+title: "\U0001F477"
+labels: ''
 assignees: ''
 
 ---

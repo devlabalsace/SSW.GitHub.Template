@@ -1,11 +1,12 @@
 ---
-name: "📝 Documentation"
+name: "\U0001F4DD Documentation"
 about: Updating documentation (e.g. README, Wiki, Guides etc.) as per https://www.ssw.com.au/rules/awesome-documentation/
-title: "📝"
-labels: 'Type: Documentation'
+title: "\U0001F4DD"
+labels: ''
 assignees: ''
 
 ---
+
 <!-- These comments automatically delete -->
 <!-- **Tip:** Delete parts that are not relevant -->
 <!-- Next to Cc:, @ mention users who should be in the loop -->

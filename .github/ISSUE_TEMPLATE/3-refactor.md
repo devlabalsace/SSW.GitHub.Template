@@ -1,11 +1,12 @@
 ---
 name: "♻️ Refactor"
-about: 'Something that needs improving while not changing functionality as per https://www.ssw.com.au/rules/technical-debt/'
+about: Something that needs improving while not changing functionality as per https://www.ssw.com.au/rules/technical-debt/
 title: "♻️"
-labels: 'Type: Refactor'
+labels: ''
 assignees: ''
 
 ---
+
 <!-- These comments automatically delete -->
 <!-- **Tip:** Delete parts that are not relevant -->
 <!-- Next to Cc:, @ mention users who should be in the loop -->
